@@ -1,0 +1,25 @@
+#blue{
+	background-color: #3d5a99;
+}
+
+#lightblue{
+	background-color: #e9ebf3;
+}
+.inline-block{
+	display:inline-block;
+}
+
+.inline-block label{
+	display:block;
+}
+.btn-primary{
+	padding:2px 5px;
+}
+
+}
+p.text-center{
+	margin:0px 2px;
+}
+.signup{
+	padding:5px 60px;
+}
